@@ -1,4 +1,4 @@
-#README
+# README
 
 React example app demonstrating the [SWAPI API](https://swapi.co/)
 
